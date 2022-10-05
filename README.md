@@ -1,4 +1,4 @@
-[Full Stack Software Developer](https://www.linkedin.com/in/md-ismail-hossain-606309234/overlay/background-image/)
+https://www.linkedin.com/in/md-ismail-hossain-606309234/overlay/background-image/
 
 ### Hi there 👋, I'm Md Ismail Hossain
 #### Full Stack Software Developer
