@@ -6,7 +6,7 @@
 I’m a Full Stack Web-based Software Developer who is passionate about making error-free projects with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind.
 Over the past years, I created some projects for my clients including Accounting Software, Inventory Management Software, payroll management Software, School Management Software, Hospital Management Software, E-Commerce Websites, and complete ERP Software.
 
-Skills: PHP | MVC | Codeigniter | Laravel | Javascript | Vue.js | Node.js | CSS | Bootstrap | Tailwind | Git | GitLab | GitHub
+Skills: PHP | MVC | Codeigniter | Laravel | Javascript | Vue.js | CSS | Bootstrap | Tailwind | Git | GitLab | GitHub
 
 - 🔭 I’m currently working on ERP software development 
 - 🌱 I’m currently learning React js 
