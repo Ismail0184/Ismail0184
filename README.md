@@ -9,7 +9,7 @@ Over the past years, I created some projects for my clients including Accounting
 Skills: PHP | MVC | Codeigniter | Laravel | Javascript | Vue.js | CSS | Bootstrap | Tailwind | Git | GitLab | GitHub
 
 - 🔭 I’m currently working on ERP software development 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning node js 
 - 💬 Ask me about Web Development 
 - 😄 Pronouns: Mr.  
 
