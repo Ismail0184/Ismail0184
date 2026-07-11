@@ -1,6 +1,7 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81282148/194095395-59c40d4e-3269-4404-b767-69f66292a3b2.png" alt="Md Ismail Hossain Banner" width="100%" />
+  <img src="./assets/Gemini_Generated_Image_txay0xtxay0xtxay (1).png" alt="Md Ismail Hossain Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Md Ismail Hossain</h1>
